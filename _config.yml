@@ -1,9 +1,12 @@
 # _config.yml
-
 title: "Omar Masri Personal Website"
-theme: jekyll-theme-slate
-parallax: true  # Enable parallax scrolling effect
+description: "A portfolio showcasing my work in technology and cybersecurity."
+theme: jekyll-theme-hyde
 
+# Parallax & Styling Settings
+parallax: true
 colors:
   primary: '#9b4dca'  # Purple
   secondary: '#6a1e9c'  # Darker Purple
+
+# Other configurations like social links and more can be added as needed.
