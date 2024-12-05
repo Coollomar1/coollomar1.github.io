@@ -1,52 +1,103 @@
 ---
 permalink: /
 ---
-# **Documentation**
-> How this project works and how to maintain your own
+
+# **Omar Masri - Portfolio**
+
+Welcome to my personal website! I'm a dedicated Computer Science student at Clemson University, passionate about cybersecurity, software development, and leveraging technology to solve real-world problems. Explore my skills, projects, and experience to learn more about my journey.
 
 <div align="center">
-    <a href="https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate">
-        <img src="https://img.shields.io/badge/Use_this_template-Generate-2ea44f?style=for-the-badge" alt="Use this template">
+    <a href="https://coollomar1.github.io">
+        <img src="https://img.shields.io/badge/Visit_My_Website-Here-2ea44f?style=for-the-badge" alt="Visit My Website">
     </a>
 </div>
 
+---
 
-## About
+## 📚 **About Me**
+I'm pursuing a B.Sc. in Computer Science at Clemson University, where I've consistently achieved high academic standards, including being on the President's List for three consecutive years. With a strong foundation in programming, cybersecurity, and data analysis, I strive to combine technical expertise with creative problem-solving.
 
-This project is built around using markdown content to make a website. 
+- **Degree:** B.Sc. in Computer Science  
+- **Expected Graduation:** May 2026  
+- **GPA:** 3.82  
+- **Languages:** Fluent in Arabic and English  
 
-This is great for non-developers to work on. No experience with Ruby, Jekyll, Liquid, HTML or CSS required. Those are all used internally, but you don't need to worry about that.
+---
 
-This repo is super light. No config needed. You don't need to setup a theme or a layout. GitHub will figure that out and will apply its standard theme to your GitHub Pages site. So will it will have a clean, white, mobile-friendly site with a heading. The limitations are covered more on these pages, such as lack of a navbar. But you can still setup links to pages, as with the Menu below.
+## 💻 **Technical Skills**
+I have a broad set of technical skills that I've developed through coursework, projects, and internships:
 
-The page you are currently viewing is `README.md` in the docs directory, with path set as `/` in the frontmatter. Alternatively, you can add `index.md` or `index.html` as your homepage. I just like how a README.md previews well in GitHub.
+- **Programming Languages:** C/C++, Python, Java, JavaScript, SQL, HTML, CSS, Swift  
+- **Tools & Platforms:** Git, GitHub, Linux, Microsoft Excel, VS Code  
+- **Cybersecurity:** Network Security, Ethical Hacking, Firewall Configuration, Vulnerability Assessment  
+- **Software Development:** Object-Oriented Programming, Design Patterns (Singleton, Observer, Factory), UI Development  
 
+---
 
-## How to use this project
+## 🚀 **Experience**
 
-- Template for a new project or docs site. Or use as a reference for existing projects.
-- Read the tutorial content under template notes.
-- View this live demo site.
+### Cybersecurity Analyst Intern  
+**Vizius Group, Greenville, SC** | *June 2023 – Dec 2023*  
+- Conducted in-depth penetration testing on enterprise networks, identifying vulnerabilities and recommending remediation strategies.  
+- Assisted in deploying and configuring security monitoring tools to enhance incident detection.  
+- Contributed to securing web applications by implementing robust data encryption and multi-factor authentication solutions.  
 
+### Cybersecurity Intern  
+**Walmart, Travelers Rest, SC** | *May 2024 – Aug 2024*  
+- Performed system-wide vulnerability assessments, collaborating with IT teams to mitigate identified risks.  
+- Developed automated monitoring scripts to proactively detect and address potential security threats.  
+- Delivered security awareness training sessions, enhancing staff knowledge on cybersecurity best practices.  
 
-## Menu
+### Team Lead Manager  
+**Chick-Fil-A, Travelers Rest, SC** | *Jan 2024 – May 2024*  
+- Supervised daily kitchen and front-end operations, ensuring high service standards during peak hours.  
+- Trained and mentored new employees, focusing on efficiency, customer service, and food safety compliance.  
+- Optimized team workflows to improve service speed and customer satisfaction.  
 
-Some info on how to make a site like this and how it works.
+---
 
-- [About](about.md)
-- [Features](features.md)
-- [Limitations](limitations.md)
-- [What about a Wiki?](wiki.md)
+## 🛠️ **Projects**
 
+### Linked List Stack and Queue Library  
+- **Overview:** Developed a reusable C++ library for stacks and queues, incorporating robust unit tests to ensure reliability.  
+- **Skills Used:** C++, Data Structures, Testing Frameworks  
 
-## Source
+### Tic Tac Toe Game  
+- **Overview:** Built an interactive GUI-based Tic Tac Toe game using Python and Tkinter, emphasizing user-friendly design.  
+- **Skills Used:** Python, GUI Development, Object-Oriented Programming  
 
-View source on GitHub:
+---
 
-[![MichaelCurrin - gh-pages-no-jekyll](https://img.shields.io/static/v1?label=MichaelCurrin&message=gh-pages-no-jekyll&color=blue&logo=github)](https://github.com/MichaelCurrin/gh-pages-no-jekyll)
+## 🎓 **Education**
+**Clemson University, Clemson, SC**  
+- **B.Sc. in Computer Science**  
+- **GPA:** 3.82  
+- **Honors:** President's List (3 years)  
 
+---
 
-## Documentation template
+## 📱 **Quick Links**
+- [Projects](projects.md)  
+- [Experience](experience.md)  
+- [Skills](skills.md)  
+- [Education](education.md)  
+- [Contact](contact.md)  
+- [TikTok](tiktok.md)  
 
-If you're looking for template docs which you can easily edit and reuse for your own site, rather see my [Generic Project Template](https://michaelcurrin.github.io/generic-project-template/) project's docs. It uses the same docs site approach as this one.
+---
 
+## 📞 **Contact Me**
+- **Email:** [omasriii03@gmail.com](mailto:omasriii03@gmail.com)  
+- **Phone:** (864) 382-8250  
+- **LinkedIn:** [LinkedIn Profile](#)  
+- **GitHub:** [GitHub Profile](#)  
+
+---
+
+## 🎥 **TikTok Profile**
+Check out my content creation on TikTok, where I share insights on technology, cybersecurity tips, and more!  
+- **[Follow me on TikTok](#)**  
+
+---
+
+&copy; 2024 Omar Masri. All rights reserved.
