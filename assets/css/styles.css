@@ -3,6 +3,8 @@ body {
     background-color: #ffffff; /* White background */
     color: #121212;  /* Dark text for contrast */
     font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 /* Links */
@@ -14,24 +16,11 @@ a:hover {
     color: #6a1e9c;  /* Darker purple on hover */
 }
 
-/* Parallax Effect */
-.parallax {
-    background-image: url('assets/images/mars-purple-space-landscape.jpg'); /* Ensure the image is in the correct folder */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 500px; /* Adjust height */
-    position: relative;
-}
-
-.parallax .content {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white; /* White text */
+/* Removed Parallax */
+.content-section {
+    padding: 50px 20px;  /* Added padding for section */
     text-align: center;
+    background-color: #f5f5f5;  /* Light gray background for content */
 }
 
 /* Button Styling */
@@ -62,4 +51,6 @@ header, footer {
 /* Section Titles */
 h1, h2, h3, h4 {
     color: #9b4dca;  /* Purple titles */
+    margin-top: 0;
+    margin-bottom: 10px;
 }
