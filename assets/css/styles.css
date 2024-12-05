@@ -1,4 +1,4 @@
-background-image: url('assets/images/mars-purple-space-landscape-with-large-planets-on-purple-starry-sky-meteors-and-mountains-nature-on-another-planet-with-a-huge-planet-on-the-horizon-vector.jpg');
+/* assets/css/styles.css */
 
 /* General Dark Theme Styles */
 body {
@@ -14,11 +14,26 @@ a:hover {
     color: #3700B3;  /* Darker purple on hover */
 }
 
-/* Header and Footer Styling */
-header, footer {
-    background-color: #1D1D1D;  /* Darker background for header/footer */
-    padding: 20px;
+/* Parallax Effect */
+.parallax {
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;  /* Adjust height based on your preference */
+    color: white;  /* Text color for readability */
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('/assets/images/mars-purple-space-landscape.jpg');  /* Correct path */
+}
+
+.parallax .content {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5); /* Darken the background for text contrast */
+    border-radius: 8px;
 }
 
 /* Button Styling */
@@ -36,4 +51,11 @@ header, footer {
 
 .button:hover {
     background-color: #6a1e9c; /* Darker purple on hover */
+}
+
+/* Header and Footer Styling */
+header, footer {
+    background-color: #1D1D1D;  /* Darker background for header/footer */
+    padding: 20px;
+    text-align: center;
 }
