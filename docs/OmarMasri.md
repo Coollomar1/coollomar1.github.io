@@ -11,9 +11,7 @@ permalink: /
 Welcome to my personal website! I'm a dedicated Computer Science student at Clemson University, passionate about cybersecurity, software development, and leveraging technology to solve real-world problems. Explore my skills, projects, and experience to learn more about my journey.
 
 <div align="center">
-    <a href="https://coollomar1.github.io" class="button">
-        Visit My Website Here! maybe add about me subpage
-    </a>
+    <a href="about-me.md" class="button">Visit My Website Here! (About Me)</a> <!-- Link to About Me page -->
 </div>
 
 ---
@@ -105,7 +103,7 @@ Check out my content creation on TikTok, where I share insights on technology, c
 
 &copy; 2024 Omar Masri. All rights reserved.
 
-<section class="parallax" style="background-image: url('path/to/your-image.jpg');">
+<section class="parallax" style="background-image: url('assets/images/mars-purple-space-landscape.jpg');">
     <div class="content">
         <h2>Welcome to My Portfolio</h2>
         <p>Discover my journey in technology, software development, and cybersecurity!</p>
