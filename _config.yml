@@ -1,12 +1,21 @@
-# _config.yml
 title: "Omar Masri Personal Website"
 description: "A portfolio showcasing my work in technology and cybersecurity."
 theme: jekyll-theme-hyde
 
-# Parallax & Styling Settings
+# Parallax and Styling Settings
 parallax: true
 colors:
   primary: '#9b4dca'  # Purple
   secondary: '#6a1e9c'  # Darker Purple
+  background: '#121212'  # Dark background for dark mode
+  text: '#E0E0E0'  # Light text for contrast
+  link: '#BB86FC'  # Accent color for links
 
-# Other configurations like social links and more can be added as needed.
+# Enable dark mode styling for the site
+dark_mode: true
+
+# Optional: Social links and other configurations can go here
+social_links:
+  tiktok: "https://www.tiktok.com/@omar.masri03"
+  linkedin: "https://www.linkedin.com/in/omar-masri-32556932b/"
+  github: "https://github.com/Coollomar1"
