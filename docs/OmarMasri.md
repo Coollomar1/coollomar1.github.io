@@ -7,8 +7,8 @@ permalink: /
 Welcome to my personal website! I'm a dedicated Computer Science student at Clemson University, passionate about cybersecurity, software development, and leveraging technology to solve real-world problems. Explore my skills, projects, and experience to learn more about my journey.
 
 <div align="center">
-    <a href="https://coollomar1.github.io">
-        <img src="https://img.shields.io/badge/Visit_My_Website-Here-2ea44f?style=for-the-badge" alt="Visit My Website">
+    <a href="https://coollomar1.github.io" style="display: inline-block; padding: 12px 25px; background-color: #0077b6; color: white; font-size: 18px; font-weight: bold; text-decoration: none; border-radius: 8px; transition: background-color 0.3s;">
+        Visit My Portfolio
     </a>
 </div>
 
