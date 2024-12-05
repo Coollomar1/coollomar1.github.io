@@ -1,25 +1,28 @@
-/* General button styles */
-.button {
-    display: inline-block;
-    padding: 12px 25px;
-    background-color: #4CAF50; /* Nice green background */
-    color: white;
-    font-size: 18px;
-    font-weight: bold;
-    text-decoration: none;
-    border-radius: 8px;
-    text-align: center;
-    transition: background-color 0.3s, transform 0.2s;
+.parallax {
+    background-image: url('https://source.unsplash.com/random/1920x1080');
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* Custom purple button style */
+.btn {
+   display: inline-block;
+   padding: 12px 25px;
+   font-size: 18px;
+   font-weight: bold;
+   text-decoration: none;
+   background: linear-gradient(45deg, #9b4dca, #6a1e9c); /* Gradient purple */
+   color: white;
+   border-radius: 50px;
+   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+   transition: transform 0.3s ease, background-color 0.3s ease;
 }
 
-/* Button hover effect */
-.button:hover {
-    background-color: #45a049; /* Darker green on hover */
-    transform: scale(1.05); /* Slight zoom effect */
-}
-
-/* Button focus effect for accessibility */
-.button:focus {
-    outline: 2px solid #f39c12; /* Orange outline for focus state */
-    outline-offset: 2px;
+/* Hover effect for purple button */
+.btn:hover {
+   transform: scale(1.1);
+   background-color: #8e24aa; /* Darker purple */
+   box-shadow: 0 8px 16px rgba(0,0,0,0.3);
 }
