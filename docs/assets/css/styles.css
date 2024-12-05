@@ -1,1 +1,18 @@
+/* styles.css */
+
+/* Background with pastel purple and neutral light blue */
+body {
+    background: linear-gradient(135deg, #C5ADC5, #A7B8D2); /* Pastel purple to light steel blue */
+    color: #333;  /* Dark text for contrast */
+    font-family: Arial, sans-serif; /* Clean, readable font */
+}
+
+/* Style the content container */
+.container {
+    padding: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background for content */
+    border-radius: 10px; /* Rounded corners for the content box */
+}
 
