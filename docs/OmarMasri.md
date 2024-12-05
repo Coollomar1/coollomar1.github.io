@@ -1,10 +1,7 @@
 ---
+title: "Omar Masri Personal Website"
 permalink: /
 ---
-
-<head>
-    <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
-</head>
 
 # **Omar Masri - Portfolio**
 
