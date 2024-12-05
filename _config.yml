@@ -2,8 +2,6 @@ title: "Omar Masri Personal Website"
 description: "A portfolio showcasing my work in technology and cybersecurity."
 theme: minima
 
-# Parallax and Styling Settings
-parallax: true
 colors:
   primary: '#9b4dca'  # Purple
   secondary: '#6a1e9c'  # Darker Purple
