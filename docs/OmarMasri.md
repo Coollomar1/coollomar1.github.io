@@ -3,7 +3,7 @@ permalink: /
 ---
 
 <head>
-    <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
 </head>
 
 # **Overview**
@@ -102,3 +102,10 @@ Check out my content creation on TikTok, where I share insights on technology, c
 ---
 
 &copy; 2024 Omar Masri. All rights reserved.
+
+<section class="parallax" style="background-image: url('/assets/images/mars-purple-space-landscape.jpg');">
+    <div class="content">
+        <h2>Welcome to My Portfolio</h2>
+        <p>Discover my journey in technology, software development, and cybersecurity!</p>
+    </div>
+</section>
