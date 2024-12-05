@@ -1,20 +1,19 @@
 title: "Omar Masri Personal Website"
 description: "A portfolio showcasing my work in technology and cybersecurity."
-theme: "minimal-mistakes"
+theme: minima
 
-# Parallax & Styling Settings
 colors:
-  primary: '#0099FF'  # Light Blue
-  secondary: '#0066CC'  # Darker Blue
-  background: '#ffffff'  # White background
-  text: '#333333'  # Dark text for contrast
-  link: '#0099FF'  # Accent color for links
+  primary: '#0099FF'  # Blue
+  secondary: '#0059B3'  # Darker Blue
+  background: '#FFFFFF'  # White background
+  text: '#121212'  # Dark text for readability
+  link: '#0066CC'  # Accent color for links
 
-# Other configurations like social links and more can be added as needed.
+# Optional: Social links and other configurations can go here
 social_links:
   tiktok: "https://www.tiktok.com/@omar.masri03"
   linkedin: "https://www.linkedin.com/in/omar-masri-32556932b/"
   github: "https://github.com/Coollomar1"
 
-markdown: 
-  # Any markdown settings or configurations can go here
+markdown: kramdown
+highlighter: rouge
