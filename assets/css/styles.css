@@ -1,14 +1,14 @@
 /* General Styles */
 body {
     background-color: #ffffff; /* White background */
-    color: #000000;  /* Black text for contrast */
+    color: #000000;  /* Black text */
     font-family: Arial, sans-serif;
 }
 
 /* Header Styles */
 header {
-    background-color: #ffffff;
-    color: #000000; /* Black for text */
+    background-color: #ffffff; /* White background for header */
+    color: #000000; /* Black text for header */
     padding: 40px;
     text-align: center;
 }
@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-    color: #9b4dca;  /* Purple color on hover */
+    color: #555555;  /* Lighter gray on hover */
 }
 
 /* Button Styling */
@@ -36,8 +36,8 @@ a:hover {
 }
 
 .button:hover {
-    background-color: #9b4dca;  /* Purple background on hover */
-    color: white;  /* Text color stays white */
+    background-color: #cccccc;  /* Light gray background on hover */
+    color: black;  /* Text color changes to black on hover */
 }
 
 /* Header and Footer */
@@ -50,5 +50,5 @@ header, footer {
 
 /* Section Titles */
 h1, h2, h3, h4 {
-    color: #000000;  /* Black titles */
+    color: #000000;  /* Black section titles */
 }
