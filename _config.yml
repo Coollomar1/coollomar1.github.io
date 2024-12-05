@@ -2,12 +2,16 @@ title: "Omar Masri Personal Website"
 description: "A portfolio showcasing my work in technology and cybersecurity."
 theme: minima
 
+# Color Scheme
 colors:
   primary: '#0099FF'  # Blue
-  secondary: '#0059B3'  # Darker Blue
-  background: '#FFFFFF'  # White background
-  text: '#121212'  # Dark text for readability
-  link: '#0066CC'  # Accent color for links
+  secondary: '#0066CC'  # Darker Blue
+  background: '#ffffff'  # White background
+  text: '#333333'  # Dark grey text for readability
+  link: '#007BFF'  # Accent color for links
+
+# Enable light theme styling for the site
+light_mode: true
 
 # Optional: Social links and other configurations can go here
 social_links:
@@ -16,4 +20,3 @@ social_links:
   github: "https://github.com/Coollomar1"
 
 markdown: kramdown
-highlighter: rouge
