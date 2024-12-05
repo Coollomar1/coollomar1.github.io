@@ -1,52 +1,48 @@
 /* General Styles */
 body {
     background-color: #ffffff; /* White background */
-    color: #121212;  /* Dark text for contrast */
+    color: #000000;  /* Black text for contrast */
     font-family: Arial, sans-serif;
 }
 
 /* Header Styles */
 header {
     background-color: #ffffff;
-    color: #121212; /* Dark black for text */
+    color: #000000; /* Black for text */
     padding: 40px;
     text-align: center;
 }
 
-/* Top Header Text */
-h1, h2, h3, h4 {
-    color: #121212;  /* Dark black for top headings */
-}
-
 /* Links */
 a {
-    color: #9b4dca;  /* Purple links */
+    color: #000000;  /* Black links */
 }
 
 a:hover {
-    color: #6a1e9c;  /* Darker purple on hover */
+    color: #9b4dca;  /* Purple color on hover */
 }
 
 /* Button Styling */
 .button {
     display: inline-block;
     padding: 12px 25px;
-    background-color: #9b4dca; /* Purple background */
+    background-color: #000000; /* Black background */
     color: white;
     font-size: 18px;
     font-weight: bold;
     text-decoration: none;
     border-radius: 8px;
-    transition: background-color 0.3s;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .button:hover {
-    background-color: #6a1e9c; /* Darker purple on hover */
+    background-color: #9b4dca;  /* Purple background on hover */
+    color: white;  /* Text color stays white */
 }
 
 /* Header and Footer */
 header, footer {
-    background-color: #9b4dca; /* Purple background */
+    background-color: #000000; /* Black background */
     color: white;
     padding: 20px;
     text-align: center;
@@ -54,19 +50,5 @@ header, footer {
 
 /* Section Titles */
 h1, h2, h3, h4 {
-    color: #9b4dca;  /* Purple titles */
-}
-
-/* Removed Parallax */
-.content-section {
-    padding: 50px 20px;  /* Added padding for section */
-    text-align: center;
-    background-color: #f5f5f5;  /* Light gray background for content */
-}
-.portfolio-image {
-    width: 100%;  /* Set to 100% width or adjust as needed */
-    max-width: 600px;  /* Maximum width for the image */
-    height: auto;
-    border-radius: 8px;  /* Optional: for rounded corners */
-    margin-top: 20px;
+    color: #000000;  /* Black titles */
 }
