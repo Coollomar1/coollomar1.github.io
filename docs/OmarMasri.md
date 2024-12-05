@@ -11,8 +11,8 @@ permalink: /
 Welcome to my personal website! I'm a dedicated Computer Science student at Clemson University, passionate about cybersecurity, software development, and leveraging technology to solve real-world problems. Explore my skills, projects, and experience to learn more about my journey.
 
 <div align="center">
-    <a href="aboutme.md" class ="button">
-        Click here to learn more about me!
+    <a href="https://coollomar1.github.io" class="btn">
+        Visit My Website Here!
     </a>
 </div>
 
