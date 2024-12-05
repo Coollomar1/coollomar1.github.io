@@ -8,8 +8,8 @@ permalink: /
 Welcome to my personal website! I'm a dedicated Computer Science student at Clemson University, passionate about cybersecurity, software development, and leveraging technology to solve real-world problems. Explore my skills, projects, and experience to learn more about my journey.
 
 <div align="center">
-    <a href="https://coollomar1.github.io" style="display: inline-block; padding: 12px 25px; background-color: #0077b6; color: white; font-size: 18px; font-weight: bold; text-decoration: none; border-radius: 8px; transition: background-color 0.3s;">
-        Visit My Website Here!
+    <a href="aboutme.md" style="display: inline-block; padding: 12px 25px; background-color: #0077b6; color: white; font-size: 18px; font-weight: bold; text-decoration: none; border-radius: 8px; transition: background-color 0.3s;">
+        Click here to learn more about me!
     </a>
 </div>
 
@@ -79,8 +79,7 @@ I have a broad set of technical skills that I've developed through coursework, p
 
 ## 📱 **Quick Links**
 - [Projects](projects.md)  
-- [Experience](experience.md)  
-- [Skills](skills.md)  
+- [Experience](experience.md) 
 - [Education](education.md)  
 - [Contact](contact.md)  
 - [TikTok](tiktok.md)  
