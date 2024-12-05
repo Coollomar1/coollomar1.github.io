@@ -1,1 +1,7 @@
 theme: jekyll-theme-slate
+
+markdown: kramdown
+
+# Adding custom CSS
+css:
+  - "assets/css/styles.css" 
