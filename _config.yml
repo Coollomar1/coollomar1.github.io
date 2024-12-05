@@ -1,6 +1,6 @@
 title: "Omar Masri Personal Website"
 description: "A portfolio showcasing my work in technology and cybersecurity."
-theme: jekyll-theme-hyde
+theme: minima
 
 # Parallax and Styling Settings
 parallax: true
