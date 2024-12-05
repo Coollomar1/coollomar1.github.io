@@ -1,7 +1,5 @@
-theme: jekyll-theme-slate
+theme: minimal-mistakes-jekyll
 
-markdown: kramdown
-
-# Adding custom CSS
-css:
-  - "assets/css/styles.css" 
+colors:
+  primary: '#9b4dca'  # Purple
+  secondary: '#6a1e9c'  # Darker Purple
