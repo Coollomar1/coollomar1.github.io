@@ -3,8 +3,19 @@ body {
     background-color: #ffffff; /* White background */
     color: #121212;  /* Dark text for contrast */
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+}
+
+/* Header Styles */
+header {
+    background-color: #ffffff;
+    color: #121212; /* Dark black for text */
+    padding: 40px;
+    text-align: center;
+}
+
+/* Top Header Text */
+h1, h2, h3, h4 {
+    color: #121212;  /* Dark black for top headings */
 }
 
 /* Links */
@@ -14,20 +25,6 @@ a {
 
 a:hover {
     color: #6a1e9c;  /* Darker purple on hover */
-}
-
-/* Removed Parallax */
-.content-section {
-    padding: 50px 20px;  /* Added padding for section */
-    text-align: center;
-    background-color: #f5f5f5;  /* Light gray background for content */
-}
-.portfolio-image {
-    width: 100%;  /* Set to 100% width or adjust as needed */
-    max-width: 600px;  /* Maximum width for the image */
-    height: auto;
-    border-radius: 8px;  /* Optional: for rounded corners */
-    margin-top: 20px;
 }
 
 /* Button Styling */
@@ -58,6 +55,18 @@ header, footer {
 /* Section Titles */
 h1, h2, h3, h4 {
     color: #9b4dca;  /* Purple titles */
-    margin-top: 0;
-    margin-bottom: 10px;
+}
+
+/* Removed Parallax */
+.content-section {
+    padding: 50px 20px;  /* Added padding for section */
+    text-align: center;
+    background-color: #f5f5f5;  /* Light gray background for content */
+}
+.portfolio-image {
+    width: 100%;  /* Set to 100% width or adjust as needed */
+    max-width: 600px;  /* Maximum width for the image */
+    height: auto;
+    border-radius: 8px;  /* Optional: for rounded corners */
+    margin-top: 20px;
 }
