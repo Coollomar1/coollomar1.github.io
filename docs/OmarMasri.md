@@ -1,7 +1,7 @@
 ---
-title: "Omar Masri Personal Website"
 permalink: /
 ---
+
 <head>
     <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
 </head>
@@ -11,8 +11,8 @@ permalink: /
 Welcome to my personal website! I'm a dedicated Computer Science student at Clemson University, passionate about cybersecurity, software development, and leveraging technology to solve real-world problems. Explore my skills, projects, and experience to learn more about my journey.
 
 <div align="center">
-    <a href="https://coollomar1.github.io" class="btn">
-        Visit My Website Here!
+    <a href="https://coollomar1.github.io" class="button">
+        Visit My Website Here! maybe add about me subpage
     </a>
 </div>
 
@@ -92,14 +92,14 @@ I have a broad set of technical skills that I've developed through coursework, p
 ## 📞 **Contact Me**
 - **Email:** [omasriii03@gmail.com](mailto:omasriii03@gmail.com)  
 - **Phone:** (864) 382-8250  
-- **LinkedIn:** [LinkedIn Profile](#)  
-- **GitHub:** [GitHub Profile](#)  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/omar-masri-32556932b/)  
+- **GitHub:** [GitHub Profile](https://github.com/Coollomar1)  
 
 ---
 
 ## 🎥 **TikTok Profile**
 Check out my content creation on TikTok, where I share insights on technology, cybersecurity tips, and more!  
-- **[Follow me on TikTok](#)**  
+- **[Follow me on TikTok](https://www.tiktok.com/@omar.masri03)**  
 
 ---
 
