@@ -4,11 +4,11 @@ theme: minima
 
 # Color Scheme
 colors:
-  primary: '#9b4dca'  # Purple
-  secondary: '#6a1e9c'  # Darker Purple
+  primary: '#000000'  # Black
+  secondary: '#9b4dca'  # Purple on hover
   background: '#ffffff'  # White background
-  text: '#121212'  # Dark text for contrast
-  link: '#9b4dca'  # Purple accent for links
+  text: '#000000'  # Black text for contrast
+  link: '#000000'  # Black links
 
 # Enable light theme styling for the site
 light_mode: true
