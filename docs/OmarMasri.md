@@ -6,7 +6,7 @@ permalink: /
     <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
 </head>
 
-# **Omar Masri - Portfolio**
+# **Overview**
 
 Welcome to my personal website! I'm a dedicated Computer Science student at Clemson University, passionate about cybersecurity, software development, and leveraging technology to solve real-world problems. Explore my skills, projects, and experience to learn more about my journey.
 
