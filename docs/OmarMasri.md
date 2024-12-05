@@ -1,12 +1,9 @@
 ---
-title: "Omar Masri Personal Website"
-description: "A portfolio showcasing my work in technology and cybersecurity."
 permalink: /
-layout: default
 ---
 
 <head>
-    <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
+    <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
 </head>
 
 # **Overview**
