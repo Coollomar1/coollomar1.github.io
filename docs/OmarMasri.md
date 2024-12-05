@@ -6,26 +6,26 @@ permalink: /
     <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
 </head>
 
-<section class="content-section">
-    <div class="content">
-        <h2>Welcome to My Portfolio</h2>
-        <p>Discover my journey in technology, software development, and cybersecurity!</p>
-        <img src="assets/images/your-image.jpg" alt="Your Image Description" class="portfolio-image"> <!-- Replace with your image -->
-    </div>
-</section>
+<header>
+    <h1>Welcome to My Portfolio</h1>
+    <p>Discover my journey in technology, software development, and cybersecurity!</p>
+</header>
 
 # **Overview**
 
-Welcome to my personal website! I am a dedicated Computer Science student at Clemson University, passionate about cybersecurity, software development, and using technology to solve real-world problems. Explore my skills, projects, and experience to learn more about my journey.
+Welcome to my personal website! I'm a dedicated Computer Science student at Clemson University, passionate about cybersecurity, software development, and leveraging technology to solve real-world problems. Explore my skills, projects, and experience to learn more about my journey.
 
 <div align="center">
-    <a href="aboutme.md" class="button">Visit My Website Here! (About Me)</a> <!-- Link to About Me page -->
+    <a href="aboutme.md" class="button">Learn About Me</a> <!-- Customize button text here -->
+    <a href="projects.md" class="button">My Projects</a> <!-- Customize button text here -->
+    <a href="experience.md" class="button">Work Experience</a> <!-- Customize button text here -->
+    <a href="contact.md" class="button">Contact Me</a> <!-- Customize button text here -->
 </div>
 
 ---
 
 ## 📚 **About Me**
-I am pursuing a B.Sc. in Computer Science at Clemson University, where I've been recognized on the President's List for three consecutive years. With a solid foundation in programming, cybersecurity, and data analysis, I strive to combine technical expertise with creative problem-solving.
+I'm pursuing a B.Sc. in Computer Science at Clemson University, where I've consistently achieved high academic standards, including being on the President's List for three consecutive years. With a strong foundation in programming, cybersecurity, and data analysis, I strive to combine technical expertise with creative problem-solving.
 
 - **Degree:** B.Sc. in Computer Science  
 - **Expected Graduation:** May 2026  
@@ -35,7 +35,7 @@ I am pursuing a B.Sc. in Computer Science at Clemson University, where I've been
 ---
 
 ## 💻 **Technical Skills**
-Here is a list of the technical skills I’ve developed through coursework, projects, and internships:
+I have a broad set of technical skills that I've developed through coursework, projects, and internships:
 
 - **Programming Languages:** C/C++, Python, Java, JavaScript, SQL, HTML, CSS, Swift  
 - **Tools & Platforms:** Git, GitHub, Linux, Microsoft Excel, VS Code  
@@ -88,10 +88,9 @@ Here is a list of the technical skills I’ve developed through coursework, proj
 
 ## 📱 **Quick Links**
 - [Projects](projects.md)  
-- [Experience](experience.md) 
+- [Experience](experience.md)  
 - [Education](education.md)  
 - [Contact](contact.md)  
-- [TikTok](tiktok.md)  
 
 ---
 
@@ -100,12 +99,6 @@ Here is a list of the technical skills I’ve developed through coursework, proj
 - **Phone:** (864) 382-8250  
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/omar-masri-32556932b/)  
 - **GitHub:** [GitHub Profile](https://github.com/Coollomar1)  
-
----
-
-## 🎥 **TikTok Profile**
-Check out my content creation on TikTok, where I share insights on technology, cybersecurity tips, and more!  
-- **[Follow me on TikTok](https://www.tiktok.com/@omar.masri03)**  
 
 ---
 
