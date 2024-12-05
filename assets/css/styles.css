@@ -1,28 +1,39 @@
+/* assets/css/styles.css */
+
+/* Parallax Effect */
 .parallax {
-    background-image: url('https://source.unsplash.com/random/1920x1080');
-    height: 500px;
+    position: relative;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}
-/* Custom purple button style */
-.btn {
-   display: inline-block;
-   padding: 12px 25px;
-   font-size: 18px;
-   font-weight: bold;
-   text-decoration: none;
-   background: linear-gradient(45deg, #9b4dca, #6a1e9c); /* Gradient purple */
-   color: white;
-   border-radius: 50px;
-   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-   transition: transform 0.3s ease, background-color 0.3s ease;
+    height: 500px; /* Adjust height based on your preference */
+    color: white; /* Text color for readability */
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-/* Hover effect for purple button */
-.btn:hover {
-   transform: scale(1.1);
-   background-color: #8e24aa; /* Darker purple */
-   box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+.parallax .content {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5); /* Darken the background for text contrast */
+    border-radius: 8px;
+}
+
+/* Button Styling */
+.button {
+    display: inline-block;
+    padding: 12px 25px;
+    background-color: #8e44ad; /* Purple background */
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #9b59b6; /* Lighter purple on hover */
 }
