@@ -1,101 +1,65 @@
-/* General Body Styling */
+/* General Styles */
 body {
-    background-color: #ffffff;  /* White background */
-    color: #333333;  /* Dark grey text for readability */
-    font-family: 'Arial', sans-serif;  /* Clean, modern font */
-    margin: 0;
-    padding: 0;
+    background-color: #ffffff; /* White background */
+    color: #121212;  /* Dark text for contrast */
+    font-family: Arial, sans-serif;
 }
 
-/* Header and Footer Styling */
-header, footer {
-    background-color: #007BFF;  /* Blue background for header/footer */
-    color: white;  /* White text for contrast */
-    padding: 20px;
-    text-align: center;
-}
-
-header h1, footer h1 {
-    margin: 0;
-    font-size: 2rem;
-}
-
-/* Links Styling */
+/* Links */
 a {
-    color: #007BFF;  /* Blue color for links */
-    text-decoration: none;  /* Remove underline */
+    color: #9b4dca;  /* Purple links */
 }
 
 a:hover {
-    color: #0056b3;  /* Darker blue on hover */
-    text-decoration: underline;  /* Underline on hover */
+    color: #6a1e9c;  /* Darker purple on hover */
+}
+
+/* Parallax Effect */
+.parallax {
+    background-image: url('assets/images/mars-purple-space-landscape.jpg'); /* Ensure the image is in the correct folder */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px; /* Adjust height */
+    position: relative;
+}
+
+.parallax .content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white; /* White text */
+    text-align: center;
 }
 
 /* Button Styling */
 .button {
     display: inline-block;
     padding: 12px 25px;
-    background-color: #0099FF;  /* Blue background */
-    color: white;  /* White text */
+    background-color: #9b4dca; /* Purple background */
+    color: white;
     font-size: 18px;
     font-weight: bold;
     text-decoration: none;
     border-radius: 8px;
-    transition: background-color 0.3s ease;
-    margin-top: 10px;
+    transition: background-color 0.3s;
 }
 
 .button:hover {
-    background-color: #0066CC;  /* Darker blue on hover */
+    background-color: #6a1e9c; /* Darker purple on hover */
 }
 
-/* Parallax Section Styling */
-.parallax {
-    position: relative;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 500px;
+/* Header and Footer */
+header, footer {
+    background-color: #9b4dca; /* Purple background */
     color: white;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.parallax .content {
     padding: 20px;
-    background-color: rgba(0, 0, 0, 0.5); /* Darkens the background for text contrast */
-    border-radius: 8px;
+    text-align: center;
 }
 
-/* Section Styling */
-section {
-    padding: 40px 20px;
-    margin: 20px 0;
-    background-color: #f7f7f7;  /* Light grey background for sections */
-    border-radius: 8px;
-}
-
-section h2 {
-    font-size: 2rem;
-    color: #333333;
-}
-
-/* Footer Specific Styling */
-footer {
-    background-color: #0056b3;  /* Darker blue for footer */
-    color: white;
-}
-
-/* Media Queries for Responsiveness */
-@media (max-width: 768px) {
-    .parallax {
-        height: 400px;
-    }
-    
-    section {
-        padding: 30px 15px;
-    }
+/* Section Titles */
+h1, h2, h3, h4 {
+    color: #9b4dca;  /* Purple titles */
 }
