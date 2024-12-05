@@ -22,11 +22,24 @@
     border-radius: 8px;
 }
 
+/* Override theme styles */
+body {
+    background-color: #f0f0f0;  /* Light grey background */
+}
+
+a {
+    color: #9b4dca;  /* Purple links */
+}
+
+a:hover {
+    color: #6a1e9c;  /* Darker purple on hover */
+}
+
 /* Button Styling */
 .button {
     display: inline-block;
     padding: 12px 25px;
-    background-color: #8e44ad; /* Purple background */
+    background-color: #9b4dca; /* Purple background */
     color: white;
     font-size: 18px;
     font-weight: bold;
@@ -36,5 +49,6 @@
 }
 
 .button:hover {
-    background-color: #9b59b6; /* Lighter purple on hover */
+    background-color: #6a1e9c; /* Darker purple on hover */
 }
+
