@@ -1,26 +1,4 @@
-/* assets/css/styles.css */
-
-/* Parallax Effect */
-.parallax {
-    position: relative;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 500px; /* Adjust height based on your preference */
-    color: white; /* Text color for readability */
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-image: url('assets/images/mars-purple-space-landscape.jpg'); /* Update with your image path */
-}
-
-.parallax .content {
-    padding: 20px;
-    background-color: rgba(0, 0, 0, 0.5); /* Darken the background for text contrast */
-    border-radius: 8px;
-}
+background-image: url('assets/css/mars-purple-space-landscape-with-large-planets-on-purple-starry-sky-meteors-and-mountains-nature-on-another-planet-with-a-huge-planet-on-the-horizon-vector.jpg');
 
 /* General Dark Theme Styles */
 body {
