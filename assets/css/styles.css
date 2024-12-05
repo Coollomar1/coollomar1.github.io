@@ -3,6 +3,8 @@ body {
     background-color: #ffffff; /* White background */
     color: #000000;  /* Black text */
     font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 /* Header Styles */
@@ -16,10 +18,11 @@ header {
 /* Links */
 a {
     color: #000000;  /* Black links */
+    text-decoration: none; /* No underlines */
 }
 
 a:hover {
-    color: #555555;  /* Lighter gray on hover */
+    color: #555555;  /* Light gray on hover */
 }
 
 /* Button Styling */
@@ -37,7 +40,7 @@ a:hover {
 
 .button:hover {
     background-color: #cccccc;  /* Light gray background on hover */
-    color: black;  /* Text color changes to black on hover */
+    color: black;  /* Text changes to black on hover */
 }
 
 /* Header and Footer */
