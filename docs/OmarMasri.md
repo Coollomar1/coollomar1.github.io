@@ -2,13 +2,16 @@
 title: "Omar Masri Personal Website"
 permalink: /
 ---
+<head>
+    <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
+</head>
 
 # **Omar Masri - Portfolio**
 
 Welcome to my personal website! I'm a dedicated Computer Science student at Clemson University, passionate about cybersecurity, software development, and leveraging technology to solve real-world problems. Explore my skills, projects, and experience to learn more about my journey.
 
 <div align="center">
-    <a href="aboutme.md" style="display: inline-block; padding: 12px 25px; background-color: #0077b6; color: white; font-size: 18px; font-weight: bold; text-decoration: none; border-radius: 8px; transition: background-color 0.3s;">
+    <a href="aboutme.md" class ="button">
         Click here to learn more about me!
     </a>
 </div>
