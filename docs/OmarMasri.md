@@ -8,7 +8,7 @@ Welcome to my personal website! I'm a dedicated Computer Science student at Clem
 
 <div align="center">
     <a href="https://coollomar1.github.io" style="display: inline-block; padding: 12px 25px; background-color: #0077b6; color: white; font-size: 18px; font-weight: bold; text-decoration: none; border-radius: 8px; transition: background-color 0.3s;">
-        Visit My Portfolio
+        Visit My Website Here!
     </a>
 </div>
 
