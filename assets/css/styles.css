@@ -1,31 +1,34 @@
-/* assets/css/styles.css */
-
-/* General Light Theme Styles */
+/* General Body Styling */
 body {
-    background-color: #FFFFFF;  /* White background */
-    color: #121212;  /* Dark text color for readability */
-    font-family: Arial, sans-serif;  /* Clean sans-serif font */
-    line-height: 1.6;
+    background-color: #ffffff;  /* White background */
+    color: #333333;  /* Dark grey text for readability */
+    font-family: 'Arial', sans-serif;  /* Clean, modern font */
     margin: 0;
     padding: 0;
 }
 
+/* Header and Footer Styling */
+header, footer {
+    background-color: #007BFF;  /* Blue background for header/footer */
+    color: white;  /* White text for contrast */
+    padding: 20px;
+    text-align: center;
+}
+
+header h1, footer h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+/* Links Styling */
 a {
-    color: #0066CC;  /* Blue accent color for links */
-    text-decoration: none;
+    color: #007BFF;  /* Blue color for links */
+    text-decoration: none;  /* Remove underline */
 }
 
 a:hover {
-    color: #0059B3;  /* Darker blue on hover */
-    text-decoration: underline;
-}
-
-/* Header and Footer Styling */
-header, footer {
-    background-color: #0099FF;  /* Blue background for header/footer */
-    color: white;  /* White text */
-    padding: 20px;
-    text-align: center;
+    color: #0056b3;  /* Darker blue on hover */
+    text-decoration: underline;  /* Underline on hover */
 }
 
 /* Button Styling */
@@ -33,19 +36,20 @@ header, footer {
     display: inline-block;
     padding: 12px 25px;
     background-color: #0099FF;  /* Blue background */
-    color: white;
+    color: white;  /* White text */
     font-size: 18px;
     font-weight: bold;
     text-decoration: none;
     border-radius: 8px;
-    transition: background-color 0.3s;
+    transition: background-color 0.3s ease;
+    margin-top: 10px;
 }
 
 .button:hover {
-    background-color: #0059B3;  /* Darker blue on hover */
+    background-color: #0066CC;  /* Darker blue on hover */
 }
 
-/* Parallax Effect */
+/* Parallax Section Styling */
 .parallax {
     position: relative;
     background-attachment: fixed;
@@ -58,11 +62,40 @@ header, footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('assets/images/mars-purple-space-landscape.jpg'); /* Update the path based on your actual image location */
 }
 
 .parallax .content {
     padding: 20px;
-    background-color: rgba(0, 0, 0, 0.5);  /* Darkened background for readability */
+    background-color: rgba(0, 0, 0, 0.5); /* Darkens the background for text contrast */
     border-radius: 8px;
+}
+
+/* Section Styling */
+section {
+    padding: 40px 20px;
+    margin: 20px 0;
+    background-color: #f7f7f7;  /* Light grey background for sections */
+    border-radius: 8px;
+}
+
+section h2 {
+    font-size: 2rem;
+    color: #333333;
+}
+
+/* Footer Specific Styling */
+footer {
+    background-color: #0056b3;  /* Darker blue for footer */
+    color: white;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+    .parallax {
+        height: 400px;
+    }
+    
+    section {
+        padding: 30px 15px;
+    }
 }
