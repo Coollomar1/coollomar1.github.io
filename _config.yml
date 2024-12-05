@@ -12,8 +12,10 @@ colors:
 # Enable dark mode styling for the site
 dark_mode: true
 
-# Optional: Social links and other configurations can go here
+# Optional: Social links and other configurations
 social_links:
   tiktok: "https://www.tiktok.com/@omar.masri03"
   linkedin: "https://www.linkedin.com/in/omar-masri-32556932b/"
   github: "https://github.com/Coollomar1"
+
+markdown: kramdown
