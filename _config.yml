@@ -1,6 +1,8 @@
-theme: minimal-mistakes-jekyll
+# _config.yml
 
-parallax: true
+title: "Omar Masri Personal Website"
+theme: jekyll-theme-slate
+parallax: true  # Enable parallax scrolling effect
 
 colors:
   primary: '#9b4dca'  # Purple
