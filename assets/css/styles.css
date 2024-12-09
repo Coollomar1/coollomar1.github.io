@@ -29,18 +29,20 @@ a:hover {
 .button {
     display: inline-block;
     padding: 12px 25px;
-    background-color: #000000; /* Black background */
-    color: white;
+    background-color: #e0e0e0; /* Light gray background */
+    color: #000000; /* Black text */
     font-size: 18px;
     font-weight: bold;
     text-decoration: none;
     border-radius: 8px;
+    border: 1px solid #cccccc; /* Light gray border */
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .button:hover {
-    background-color: #cccccc;  /* Light gray background on hover */
-    color: black;  /* Text changes to black on hover */
+    background-color: #ffffff; /* White background on hover */
+    color: #000000; /* Black text remains */
+    border: 1px solid #aaaaaa; /* Slightly darker border on hover */
 }
 
 /* Header and Footer */
