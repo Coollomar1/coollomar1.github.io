@@ -1,6 +1,6 @@
 title: "Omar Masri Personal Website"
 description: "A portfolio showcasing my work in technology and cybersecurity."
-theme: jekyll-slate
+theme: jekyll-theme-slate
 # Color Scheme
 colors:
   primary: '#000000'  # Black
