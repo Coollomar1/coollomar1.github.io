@@ -2,9 +2,9 @@
 permalink: /
 ---
 
-<head>
-    <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
-</head>
+<header>
+    <h1>Omar Masri Personal Website</h1>
+</header>
 
 # **Overview**
 
