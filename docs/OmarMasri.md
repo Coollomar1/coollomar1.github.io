@@ -12,9 +12,6 @@ Welcome to my personal website! I'm a dedicated Computer Science student at Clem
 
 <div align="center">
     <a href="aboutme.md" class="button">About Me</a>
-    <a href="tiktok.md" class="button">TikTok</a>
-    <a href="contact.md" class="button">Contact</a>
-    <a href="projects.md" class="button">Projects</a>
 </div>
 
 ---
