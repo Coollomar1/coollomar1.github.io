@@ -12,7 +12,7 @@ permalink: /
 Welcome to my personal website! I'm a dedicated Computer Science student at Clemson University, passionate about cybersecurity, software development, and leveraging technology to solve real-world problems. Explore my skills, projects, and experience to learn more about my journey.
 
 <div align="center">
-    <a href="aboutme.md" class="button">About Me</a>
+    <a href="docs/aboutme.md" class="button">About Me</a>
 </div>
 
 ---
@@ -80,10 +80,10 @@ I have a broad set of technical skills that I've developed through coursework, p
 ---
 
 ## 📱 **Quick Links**
-- [Projects](projects.md)  
-- [Experience](experience.md)  
-- [Education](education.md)  
-- [Contact](contact.md)  
+- [Projects](docs/projects.md)  
+- [Experience](docs/experience.md)  
+- [Education](docs/education.md)  
+- [Contact](docs/contact.md)  
 
 ---
 
