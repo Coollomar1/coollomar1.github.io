@@ -9,23 +9,35 @@ body {
 
 /* Header Styles */
 header {
-    background-color: #ffffff; /* White background for header */
-    color: #000000; /* Black text for header */
+    background-color: #000000; /* Black background for header */
+    color: #cccccc; /* Default light gray text for other header elements */
     padding: 40px;
     text-align: center;
 }
 
-/* Links */
-a {
-    color: #000000;  /* Black links */
+/* Specific Styling for Name */
+header h1 {
+    color: #ffffff; /* White text for name */
+    font-size: 36px; /* Adjust size as needed */
+    font-weight: bold; /* Make it stand out */
+}
+
+/* Links in Header */
+header a {
+    color: #cccccc; /* Light gray links in header */
     text-decoration: none; /* No underlines */
 }
 
-a:hover {
-    color: #555555;  /* Light gray on hover */
+header a:hover {
+    color: #ffffff; /* White on hover for contrast */
 }
 
-/* Button Styling */
+/* Remove Header Buttons */
+header .button {
+    display: none; /* Hides buttons specifically in the header */
+}
+
+/* Button Styling for Content */
 .button {
     display: inline-block;
     padding: 12px 25px;
@@ -35,7 +47,7 @@ a:hover {
     font-weight: bold;
     text-decoration: none;
     border-radius: 8px;
-    border: 1px solid #cccccc; /* Light gray border */
+    border: 1px solid #cccccc; /* Subtle border */
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
