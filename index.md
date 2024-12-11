@@ -14,7 +14,7 @@ Welcome to my personal website! I'm a dedicated Computer Science student at Clem
     <img src="profile-pic.jpg" alt="Profile Picture" width="400" />
 </div>
 
-## 📱 **Quick Links**
+## 📱 **LEARN MORE ABOUT ME (Click here)**
 - [Projects](docs/projects.md)  
 - [Experience](docs/experience.md)  
 - [Education](docs/education.md)  
