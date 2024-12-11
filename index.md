@@ -11,7 +11,7 @@ permalink: /
 
 Welcome to my personal website! I'm a dedicated Computer Science student at Clemson University, passionate about cybersecurity, software development, and leveraging technology to solve real-world problems. Explore my skills, projects, and experience to learn more about my journey.
 <div align="center">
-    <img src="profile-pic.jpg" alt="Profile Picture" width="400" />
+    <img src="profile-picture.jpg" alt="Profile Picture" width="400" />
 </div>
 
 ## 📱 **LEARN MORE ABOUT ME (Click here)**
