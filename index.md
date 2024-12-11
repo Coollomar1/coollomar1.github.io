@@ -14,14 +14,6 @@ Welcome to my personal website! I'm a dedicated Computer Science student at Clem
     <img src="profile-pic.jpg" alt="Profile Picture" width="400" />
 </div>
 
-## 🎓 **Education**
-**Clemson University, Clemson, SC**  
-- **B.Sc. in Computer Science**  
-- **GPA:** 3.82  
-- **Honors:** President's List (3 years)  
-
----
-
 ## 📱 **Quick Links**
 - [Projects](docs/projects.md)  
 - [Experience](docs/experience.md)  
