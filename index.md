@@ -14,29 +14,6 @@ Welcome to my personal website! I'm a dedicated Computer Science student at Clem
     <img src="profile-pic.jpg" alt="Profile Picture" width="400" />
 </div>
 
-
-## 🚀 **Experience**
-
-### Cybersecurity Analyst Intern  
-**Vizius Group, Greenville, SC** | *June 2023 – Dec 2023*  
-- Conducted in-depth penetration testing on enterprise networks, identifying vulnerabilities and recommending remediation strategies.  
-- Assisted in deploying and configuring security monitoring tools to enhance incident detection.  
-- Contributed to securing web applications by implementing robust data encryption and multi-factor authentication solutions.  
-
-### Cybersecurity Intern  
-**Walmart, Travelers Rest, SC** | *May 2024 – Aug 2024*  
-- Performed system-wide vulnerability assessments, collaborating with IT teams to mitigate identified risks.  
-- Developed automated monitoring scripts to proactively detect and address potential security threats.  
-- Delivered security awareness training sessions, enhancing staff knowledge on cybersecurity best practices.  
-
-### Team Lead Manager  
-**Chick-Fil-A, Travelers Rest, SC** | *Jan 2024 – May 2024*  
-- Supervised daily kitchen and front-end operations, ensuring high service standards during peak hours.  
-- Trained and mentored new employees, focusing on efficiency, customer service, and food safety compliance.  
-- Optimized team workflows to improve service speed and customer satisfaction.  
-
----
-
 ## 🛠️ **Projects**
 
 ### Linked List Stack and Queue Library  
