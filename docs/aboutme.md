@@ -1,3 +1,7 @@
+<div align="center">
+    <a href="https://coollomar1.github.io/" class="button">Back to Home</a>
+</div>
+
 ## 📚 **About Me**
 
 Hi, I’m Omar Masri—a dedicated and ambitious Computer Science student at Clemson University with a passion for cybersecurity, software development, and leveraging technology to tackle real-world challenges. My journey is marked by academic excellence (President’s List for three consecutive years) and hands-on experience, from interning as a Cybersecurity Analyst to leading impactful projects in programming and data analysis. I thrive at the intersection of technical problem-solving and creativity, always eager to expand my skill set and contribute meaningfully to the tech world. I am currently expected to graduate in May of 2026, and I have successfuly maintained a 3.82 GPA up to my junior year.
