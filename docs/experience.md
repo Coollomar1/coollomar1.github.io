@@ -73,5 +73,5 @@
 - Utilized technical terminology and documentation in both languages, bridging communication gaps in international and multicultural settings. 
 
 <div align="center">
-    <img src="experience.jpg" alt="Experience" width="200" />
+    <img src="experience.jpg" alt="Experience" width="1000" />
 </div>
