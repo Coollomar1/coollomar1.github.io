@@ -14,7 +14,7 @@ Welcome to my personal website! I’m Omar Masri, a driven Computer Science stud
     <img src="profile-picture.jpg" alt="Profile Picture" width="400" />
 </div>
 
-## 📱 **LEARN MORE ABOUT ME (Click here)**
+## 📱 **LEARN MORE ABOUT ME (Click Any Link Below)**
 - [Who am I?](docs/aboutme.md)
 - [TikTok](docs/tiktok.md)
 - [Projects](docs/projects.md)  
