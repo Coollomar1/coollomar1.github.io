@@ -1,3 +1,7 @@
+<div align="center">
+    <a href="https://coollomar1.github.io" class="button">Back to Home</a>
+</div>
+
 # **TikTok: @omar.masri03**
 
 Welcome to my TikTok page! 🎥 I create relatable, funny, and entertaining content that connects with people from all walks of life. Over the years, I’ve built a vibrant fanbase of more than **97,000 followers**, and my videos have become a platform for spreading positivity, laughter, and everyday humor.
@@ -7,8 +11,4 @@ TikTok has been more than just a creative outlet—it’s also a rewarding ventu
 Join the community by following me at [@omar.masri03](https://www.tiktok.com/@omar.masri03), and let’s keep the good vibes going!
 <div align="center">
     <img src="tiktok.jpg" alt="TikTok" width="400" />
-</div>
-
-<div align="center">
-    <a href="https://coollomar1.github.io" class="button">Back to Home</a>
 </div>
