@@ -7,3 +7,7 @@ Beyond academics and professional pursuits, I believe in living a balanced and f
 I'm fluent in English and Arabic, and I love meeting new cultures. Diversity is something that I would love to experience, and with my previous experiences, I have met some of my best friends who came from different backgrounds.
 
 Let’s connect and share ideas—because the best stories are written when passion meets collaboration!
+
+<div align="center">
+    <img src="aboutme.jpg" alt="About Me" width="400" />
+</div>
