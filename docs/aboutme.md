@@ -15,7 +15,3 @@ Let’s connect and share ideas—because the best stories are written when pass
 <div align="center">
     <img src="aboutme.jpg" alt="About Me" width="400" />
 </div>
-
-<div align="center">
-    <a href="https://coollomar1.github.io/" class="button">Back to Home</a>
-</div>
