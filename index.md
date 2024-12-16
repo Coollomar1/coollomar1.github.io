@@ -20,6 +20,6 @@ Welcome to my personal website! I’m Omar Masri, a driven Computer Science stud
 - [Projects](docs/projects.md)  
 - [Experience](docs/experience.md)  
 - [Education](docs/education.md)  
-- [Contact](docs/contact.md)  
+- [Contact/Social Media](docs/contact.md)  
 
 &copy; 2024 Omar Masri. All rights reserved.
