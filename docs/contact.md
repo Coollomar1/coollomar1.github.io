@@ -11,3 +11,11 @@
 - **Twitter (X):** [Twitter (X) Account] (https://x.com/coollomar1?s=21&t=V3PmkyprLE9tzGFiM-aS_Q)
 - **Snapchat:** [Snapchat Account] (https://www.snapchat.com/add/coollomar1)
 - **YouTube:** [YouTube Channel] (https://www.youtube.com/@OmarMasri1/featured)
+
+<div align="center">
+    <img src="social.jpg" alt="Social Media" width="400" />
+</div>
+
+<div align="center">
+    <a href="https://coollomar1.github.io/" class="button">Back to Home</a>
+</div>
