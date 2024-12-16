@@ -15,6 +15,8 @@ Welcome to my personal website! I'm a dedicated Computer Science student at Clem
 </div>
 
 ## 📱 **LEARN MORE ABOUT ME (Click here)**
+- [Who am I?](docs/aboutme.md)
+- [TikTok](docs/tiktok.md)
 - [Projects](docs/projects.md)  
 - [Experience](docs/experience.md)  
 - [Education](docs/education.md)  
