@@ -39,5 +39,5 @@ A collection of personal projects exploring various technologies, from cybersecu
 - Check out my GitHub to see and experience these programs yourself: [GitHub: Side Projects](https://github.com/Coollomar1/Side-Projects.git).
 
 <div align="center">
-    <img src="projects.jpg" alt="Projects" width="1000" />
+    <img src="projects.jpg" alt="Projects" width="2000" />
 </div>
