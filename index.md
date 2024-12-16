@@ -18,8 +18,7 @@ Welcome to my personal website! I’m Omar Masri, a driven Computer Science stud
 - [Who am I?](docs/aboutme.md)
 - [TikTok](docs/tiktok.md)
 - [Projects](docs/projects.md)  
-- [Experience](docs/experience.md)  
-- [Education](docs/education.md)  
+- [Experience and Education](docs/experience.md)  
 - [Contact/Social Media](docs/contact.md)  
 
 &copy; 2024 Omar Masri. All rights reserved.
