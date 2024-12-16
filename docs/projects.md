@@ -1,3 +1,7 @@
+<div align="center">
+    <a href="https://coollomar1.github.io/" class="button">Back to Home</a>
+</div>
+
 ## 🛠️ **Projects**
 
 ### **Linked List Stack and Queue Library (C++)**  
@@ -36,8 +40,4 @@ A collection of personal projects exploring various technologies, from cybersecu
 
 <div align="center">
     <img src="projects.jpg" alt="Projects" width="400" />
-</div>
-
-<div align="center">
-    <a href="https://coollomar1.github.io/" class="button">Back to Home</a>
 </div>
