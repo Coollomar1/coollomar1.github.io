@@ -67,3 +67,11 @@
 ## 🌎 **Language Proficiency**  
 - Fluent in **Arabic** and **English**, enabling effective communication in diverse environments.  
 - Utilized technical terminology and documentation in both languages, bridging communication gaps in international and multicultural settings. 
+
+<div align="center">
+    <img src="experience.jpg" alt="Experience" width="200" />
+</div>
+
+<div align="center">
+    <a href="https://coollomar1.github.io/" class="button">Back to Home</a>
+</div>
