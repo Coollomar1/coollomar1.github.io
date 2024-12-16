@@ -1,7 +1,7 @@
-# **What about a Wiki?**
+# **TikTok: @omar.masri03**
 
-[![Project Wiki](https://img.shields.io/badge/Wiki-blue?style=for-the-badge)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/wiki)
+Welcome to my TikTok page! 🎥 I create relatable, funny, and entertaining content that connects with people from all walks of life. Over the years, I’ve built a vibrant fanbase of more than **97,000 followers**, and my videos have become a platform for spreading positivity, laughter, and everyday humor.
 
-As an alternative, consider using the Wiki feature on GitHub.
+TikTok has been more than just a creative outlet—it’s also a rewarding venture where I’ve turned my passion into a source of income. From trending skits to lighthearted takes on life’s challenges, my content is all about bringing joy and connection to my audience.
 
-It will give a similar Github-styled experience of doc pages that separate from the code and files, but with the benefit of a menu. Note that a Wiki lives in its own repo, so updates made independently to the main part of the repo. A Wiki has a history, but does it not work Pull Requests and reviews so the edit process is different.
+Join the community by following me at [@omar.masri03](https://www.tiktok.com/@omar.masri03), and let’s keep the good vibes going!
