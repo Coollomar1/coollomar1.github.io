@@ -1,3 +1,7 @@
+<div align="center">
+    <a href="https://coollomar1.github.io/" class="button">Back to Home</a>
+</div>
+
 ## 📞 **Contact Me**
 - **Email:** [omasriii03@gmail.com](mailto:omasriii03@gmail.com)  
 - **Phone:** (864) 382-8250  
@@ -14,8 +18,4 @@
 
 <div align="center">
     <img src="social.jpg" alt="Social Media" width="400" />
-</div>
-
-<div align="center">
-    <a href="https://coollomar1.github.io/" class="button">Back to Home</a>
 </div>
