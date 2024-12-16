@@ -1,3 +1,7 @@
+<div align="center">
+    <a href="https://coollomar1.github.io/" class="button">Back to Home</a>
+</div>
+
 # **Experience**
 
 ## 🚀 **Professional Experience**
@@ -70,8 +74,4 @@
 
 <div align="center">
     <img src="experience.jpg" alt="Experience" width="200" />
-</div>
-
-<div align="center">
-    <a href="https://coollomar1.github.io/" class="button">Back to Home</a>
 </div>
