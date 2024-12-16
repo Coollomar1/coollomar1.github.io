@@ -6,7 +6,7 @@ TikTok has been more than just a creative outlet—it’s also a rewarding ventu
 
 Join the community by following me at [@omar.masri03](https://www.tiktok.com/@omar.masri03), and let’s keep the good vibes going!
 <div align="center">
-    <img src="tiktok.jpg" alt="Profile Picture" class="profile-img" />
+    <img src="tiktok.jpg" alt="TikTok" width="400" />
 </div>
 
 <div align="center">
