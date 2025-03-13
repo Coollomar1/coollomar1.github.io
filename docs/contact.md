@@ -9,7 +9,6 @@
   - [Yahoo Mail](https://compose.mail.yahoo.com/?to=omasriii03@gmail.com)
   - [Outlook](https://outlook.live.com/owa/?path=/mail/action/compose&to=omasriii03@gmail.com)
 
-- **Phone:** (864) 382-8250  
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/omar-masri-32556932b/)  
 - **GitHub:** [GitHub Profile](https://github.com/Coollomar1)
 
